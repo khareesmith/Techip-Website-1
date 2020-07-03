@@ -1,4 +1,4 @@
-* {
+    * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -6,19 +6,16 @@
 }
 
 body {
-    background-color: blueviolet;
+    background-image: url(https://images.unsplash.com/photo-1554050857-c84a8abdb5e2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=282&q=80);
     margin: 0 10px;
 }
 
-div.payment {
+.payment,
+wrapper {
     background: #f8f8f8;
     max-width: 360px;
     margin: 80px auto;
     height: auto;
     padding: 35px;
     padding-top: 70px;
-}
-
-.h2 {
-    color: red;
-}
+    border-radius: 5px;
