@@ -2,7 +2,16 @@ body {
     background: #e6e4df;
 }
 
-teamcards {
+.contact-links a:hover {
+    color: whitesmoke;
+}
+
+.activ-link {
+    color: whitesmoke;
+}
+
+.teamcards {
+    padding-top: .5em;
 }
 
 .abt-head {
@@ -23,10 +32,18 @@ teamcards {
     height: 100%;
 }
 
-.blue {
-    background: grey;
+.grey {
+    background: #343a40;
 }
 
 .foot {
     height: 50%;
+}
+
+.hrline {
+    background: whitesmoke;
+}
+
+.whitecolor {
+    color: whitesmoke;
 }
