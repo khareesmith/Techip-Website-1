@@ -1,5 +1,9 @@
 body {
-    background: #e6e4df;
+    background: #d8d6d0;
+}
+
+.mission {
+    font-style: italic;
 }
 
 .contact-links a:hover {
@@ -20,7 +24,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
-    color: white;
+    color: whitesmoke;
 }
 
 .about-col {
