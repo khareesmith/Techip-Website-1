@@ -11,17 +11,8 @@ body {
     font-family: 'Caviar Dreams' !important;
 }
 
-
-
 main {
     background:  #d8d6d0;
-}
-
-header {
-    text-align: center;
-    font-size: 2em;
-    padding-top: 10px;
-    font-style: italic;
 }
 
 footer nav {
