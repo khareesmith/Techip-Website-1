@@ -8,5 +8,12 @@ $("#messagebtn").click(function () {
 });
 
 $("#message-sub").click(function () {
-    alert("Message has been submitted!");
+    alert("Message has been submitted");
 });
+
+$(".card").hover(function () {
+        $(this).css("transform", "scale(1.07)")
+    }, function () {
+        $(this).css("transform", "scale(1)")
+    }
+);
