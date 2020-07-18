@@ -2,6 +2,12 @@ body {
     background:  #d8d6d0;
 }
 
+.banner {
+    background-image: url(assets/tech-background.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
 .grey {
     background: #343a40;
 }
@@ -12,4 +18,8 @@ body {
 
 .whitecolor {
     color: whitesmoke;
+}
+
+.card:hover {
+    transform: scale(1.1);
 }
