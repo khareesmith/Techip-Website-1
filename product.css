@@ -7,7 +7,39 @@ body {
     margin-bottom: 30px;
 }
 
-.btn-primary{
+.tablet{
+    max-width: 80%;
+    height: auto;
+}
+
+.flameBtn{
+    margin-top: 15px;
+    text-align: center;
+}
+
+.customBtn{
+    margin-top: 15px;
+    text-align: center;
+}
+
+.siliconeBtn{
+    margin-top: 15px;
+    text-align: center;
+}
+
+.silverBtn{
+    margin-top: 15px;
+    text-align: center;
+}
+
+.tabletBtn{
+    margin-top: 15px;
+    text-align: center;
+}
+
+.lovinaBtn{
+    margin-top: 15px;
+    text-align: center;
 }
 
 .grey {
