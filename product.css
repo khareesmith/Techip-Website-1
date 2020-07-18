@@ -2,6 +2,14 @@ body {
     background:  #d8d6d0;
 }
 
+.col-sm{
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.btn-primary{
+}
+
 .grey {
     background: #343a40;
 }
