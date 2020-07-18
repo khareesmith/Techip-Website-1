@@ -1,0 +1,104 @@
+body, main {
+    background: #d8d6d0;
+}
+
+.logo {
+    font-family: 'Megrim', cursive;
+}
+
+nav ul li a {
+    font-family: 'Orbitron', sans-serif;
+}
+
+h1, h2, h3 {
+    font-family: 'Michroma', sans-serif;
+}
+
+p {
+    font-family: 'Krub', sans-serif;
+}
+
+.footgray {
+    background: #343a40;
+}
+
+.hrline {
+    background: whitesmoke;
+}
+
+.whitecolor {
+    color: whitesmoke;
+}
+
+#content {
+    display: grid;
+    grid-template-columns: 20% 30% 30%;
+    grid-gap: 40px;
+    padding-top: 40px;
+    justify-content: center;
+    text-align: justify;
+}
+
+.img-3 {
+    height: 200px;
+    width: 300px;
+    margin-left: 25px;
+}
+
+.mission {
+    font-style: italic;
+}
+
+.contact-links a:hover {
+    color: whitesmoke;
+}
+
+.activ-link {
+    color: whitesmoke;
+}
+
+.teamcards {
+    padding-top: .5em;
+}
+
+.abt-head {
+    background-image: url(../assets/about-landscape.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: whitesmoke;
+    height: 200px;
+}
+
+.home-banner {
+    background-image: url(../assets/skyline.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: whitesmoke;
+    height: 200px;
+}
+
+.banner {
+    background-image: url(../assets/tech-background.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.tech-banner {
+    background-image: url(../assets/tech-support.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 200px;
+}
+
+.about-col {
+    width: 100%;
+    padding: 0;
+}
+
+.whatrow {
+    height: 100%;
+}
