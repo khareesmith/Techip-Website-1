@@ -1,7 +1,12 @@
-console.log("hello");
+$("#messagebtn").click(function () {
+    $("#tech-container").fadeOut("slow");
 
-$("#button").click(function () {
-    $("#myDiv").toggle();
-    $("#frame").attr("src", "http://www.example.com/");
+    $("#frame").attr("src", "contact.html");
 
+    $("#contact-page").fadeIn("slow");
+
+});
+
+$("#message-sub").click(function () {
+    alert("Message has been submitted!");
 });
